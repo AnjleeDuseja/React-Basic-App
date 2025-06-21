@@ -39,7 +39,7 @@ A minimal React calculator for basic arithmetic operations:
 
 ## 🖼 Preview
 
-![Basic React Apps Preview](https://github.com/AnjleeDuseja/Currency_Converter/blob/main/basicReactApps.PNG)  
+![Basic React Apps Preview](https://github.com/AnjleeDuseja/React-Basic-App/blob/main/basicReactApps.PNG)  
 
 ---
 
