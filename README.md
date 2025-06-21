@@ -1,12 +1,70 @@
-# React + Vite
+# 🚀 Basic React Apps
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains a collection of small React.js applications showcasing core frontend development concepts using React and Tailwind CSS.
 
-Currently, two official plugins are available:
+Each app demonstrates a unique functionality—from counter operations and dynamic styling to basic arithmetic handling.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🛠 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React.js** – Functional components & hooks (`useState`)
+- **Tailwind CSS** – For responsive and utility-first styling
+---
+
+## 📦 Included Projects
+
+### 🔢 Counter App
+
+A simple counter interface that Increments or decrements the value by 1 and 5
+
+---
+
+### 🎨 Color Changer
+
+An interactive app to change text or background color dynamically.
+
+
+---
+
+### 🧮 Basic Calculator
+
+A minimal React calculator for basic arithmetic operations:
+
+- ➕ Addition  
+- ➖ Subtraction  
+- ✖️ Multiplication  
+- ➗ Division
+---
+
+## 🖼 Preview
+
+![Basic React Apps Preview](https://github.com/AnjleeDuseja/Currency_Converter/blob/main/basicReactApps.PNG)  
+
+---
+
+## 📂 Getting Started
+
+Follow the steps below to set up and run the project locally:
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/yourusername/basic-react-apps.git
+
+# 2. Navigate to the project directory
+cd basic-react-apps
+
+# 3. Install dependencies
+npm install
+
+# 4. Start the development server
+npm run dev    # If using Vite
+# OR
+npm start      # If using Create React App
+```
+
+📬 Author
+
+ - Anjlee Duseja
+
+      🌐 GitHub (https://github.com/AnjleeDuseja)
