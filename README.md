@@ -27,14 +27,10 @@ An interactive app to change text or background color dynamically.
 
 ---
 
-### 🧮 Basic Calculator
+### 🔐 Password Generator
 
-A minimal React calculator for basic arithmetic operations:
+A React app that creates random passwords based on user-defined length, and inclusion of numbers and special characters. Also includes a copy-to-clipboard feature.
 
-- ➕ Addition  
-- ➖ Subtraction  
-- ✖️ Multiplication  
-- ➗ Division
 ---
 
 ## 🖼 Preview
@@ -42,6 +38,26 @@ A minimal React calculator for basic arithmetic operations:
 ![Basic React Apps Preview](https://github.com/AnjleeDuseja/React-Basic-App/blob/main/basicReactApps.PNG)  
 
 ---
+
+## 🧠 Concepts Learned in this project
+
+- React Basics: Component structure, JSX, and rendering
+
+- useState Hook: Managing local state in functional components
+
+- Event Handling: Responding to user actions (click, input, etc.)
+
+- Props: Passing data and functions between components
+
+- useCallback Hook: Optimizing functions and avoiding unnecessary re-renders
+
+- useRef Hook: Accessing DOM elements and persisting values without re-render
+
+- Conditional Rendering: Showing UI based on state
+
+- Clipboard API: Copying text programmatically
+
+- Component Reusability & Structure: Breaking logic into smaller, manageable parts
 
 ## 📂 Getting Started
 
